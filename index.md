@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+### WELCOME to SEMESTER TWO CONTENT AT IITG
 
-You can use the [editor on GitHub](https://github.com/mukul54/02_Semester/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+You can download the comple repository by clicking on clone or download buttom at [THIS LINK](https://github.com/mukul54/02_Semester/) .
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
